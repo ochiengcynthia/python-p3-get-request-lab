@@ -9,6 +9,8 @@ httpx = "*"
 pytest = "*"
 uvicorn = "*"
 sqlalchemy = "*"
+alembic = "*"
+pydantic = "*"
 
 [dev-packages]
 
